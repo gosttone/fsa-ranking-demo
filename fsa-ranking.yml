@@ -1,0 +1,7 @@
+## YAML Template.
+---
+runtime: php
+env: flex
+
+runtime_config:
+  document_root: web
